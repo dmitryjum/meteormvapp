@@ -1,0 +1,1 @@
+This is a simple app with use of meteor.js and open weather api
